@@ -1,6 +1,7 @@
 [default]
-port = 3000
+address = "0.0.0.0"
 temp_dir = "storage"
+keep_alive = 60
 
 [default.limits]
 file = "512 MiB"

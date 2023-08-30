@@ -1,0 +1,7 @@
+[default]
+port = 3000
+temp_dir = "storage"
+
+[default.limits]
+file = "512 MiB"
+data-form = "512 MiB"
